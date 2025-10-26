@@ -4789,7 +4789,7 @@ cra-template@1.2.0:
   resolved "https://registry.yarnpkg.com/cra-template/-/cra-template-1.2.0.tgz#7bb339b1f762cc0901665dba8260333e13547e4e"
   integrity sha512-06WBUmTq79NvqU91Y9OPCXv/ENy/UkUmQS0lBrOYCl/4f4l67idnGbBARDGLopCHfff6pf6UftcFRWHg+CVfRw==
 
-craco@^7.0.0:
+craco@6.4.3:
   version "0.0.3"
   resolved "https://registry.yarnpkg.com/craco/-/craco-0.0.3.tgz#1e464b0ae5d9176570382d3a3fcdbf3599577012"
   integrity sha512-eeibbwJm1CTf/j3xvNgNmsRS7abegp4Cfm5qtn5nE9/0JjZRas+FHj8IlT8FMFWR0XOyZFGcWZgzaTU19DNGoQ==
